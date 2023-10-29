@@ -1,4 +1,4 @@
-\usepackage{hyperref}
+
 # Tweet Profanity Score Calculator
 
 ## Introduction
@@ -35,4 +35,4 @@ Contributions are welcome. Please fork the repository and create a pull request 
 Access the Jupyter Notebook (.ipynb) file for this project on [Kaggle](https://www.kaggle.com/code/thethirdchapter/profanity-score).
 
 ## Contact
-For any questions or suggestions, feel free to contact the project maintainer at \href{mailto:bishtdeepak8469@gmail.com}{bishtdeepak8469@gmail.com}.
+For any questions or suggestions, feel free to contact the project maintainer at bishtdeepak8469@gmail.com.
