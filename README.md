@@ -1,3 +1,4 @@
+\usepackage{hyperref}
 # Tweet Profanity Score Calculator
 
 ## Introduction
